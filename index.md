@@ -1,7 +1,7 @@
 ## [Aardwolf Showmap 1.0.5](https://github.com/hudmond/hudmond.github.io/raw/master/Aardwolf_Showmap_v1.0.5.zip)
 ##### This gives you links to external map sites. Highly recommended.
 ---
-## [Aardwolf Soundpack v1.1.1](https://github.com/hudmond/hudmond.github.io/raw/master/Aardwolf_Soundpack_v1.1.1.zip)
+## [Aardwolf Soundpack v1.1.2](https://github.com/hudmond/hudmond.github.io/raw/master/Aardwolf_Soundpack_v1.1.2.zip)
 ##### This is a soundpack for Aardwolf. It contains sounds for many events, and is highly configurable. You can drop your own wav files into the sounds/ folder or sounds/saved and they can be assigned to the pre-existing events. You can also set individual volumes for events, or toggle any off that you like.
 ---
 ## [Aardwolf Inviter v1.0.1](https://github.com/hudmond/hudmond.github.io/raw/master/Aardwolf_Inviter_v1.0.1.zip)
